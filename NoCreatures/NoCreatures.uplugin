@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=502094",
+	"FriendlyName": "STUB No Creatures",
+	"Description": "STUB MOD",
+	"Category": "Modding",
+	"CreatedBy": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+
+	"Plugins": [
+	]
+}
