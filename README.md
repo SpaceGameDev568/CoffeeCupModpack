@@ -1,0 +1,1 @@
+The CoffeeCupModpack subfolder contains the modpack uplugin, everything else is just a stub.
