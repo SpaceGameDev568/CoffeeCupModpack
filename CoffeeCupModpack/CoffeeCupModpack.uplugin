@@ -7,8 +7,8 @@
 	"FriendlyName": "Coffee Cup Modpack (CCM)",
 	"Description": "The modpack mod that requires all other mods needed by the event",
 	"Category": "Modding",
-	"CreatedBy": "SpaceGameDev",
-	"CreatedByURL": "https://spacegamedev.com",
+	"CreatedBy": "Coffee Cup Studios",
+	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "http://discord.gg/coffeecupstudios",
@@ -20,12 +20,17 @@
 		{
 			"Name": "CoffeeCupAddons",
 			"Enabled": true,
-			"SemVersion": "^1.1.4"
+			"SemVersion": "^1.1.5"
 		},
 		{
 			"Name": "CoffeeCupRaceEvent",
 			"Enabled": true,
 			"SemVersion": "^1.0.21"
+		},
+		{
+			"Name": "CoffeeCupReplay",
+			"Enabled": true,
+			"SemVersion": "^1.0.0"
 		},
 		{
 			"Name": "ImprovedExplorerCameras",
@@ -77,5 +82,6 @@
 			"Enabled": true,
 			"SemVersion": "^3.12.0"
 		}
-	]
+	],
+	"RequiredOnRemote": false
 }
