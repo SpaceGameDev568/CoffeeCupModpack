@@ -1,18 +1,18 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
-	"SemVersion": "1.0.1",
+	"VersionName": "1.0.2",
+	"SemVersion": "1.0.2",
 	"GameVersion": ">=502094",
 	"FriendlyName": "Coffee Cup Modpack (CCM)",
 	"Description": "The modpack mod that requires all other mods needed by the event",
 	"Category": "Modding",
-	"CreatedBy": "Coffee Cup Studios",
-	"CreatedByURL": "",
-	"DocsURL": "",
-	"MarketplaceURL": "",
-	"SupportURL": "http://discord.gg/coffeecupstudios",
-	"CanContainContent": false,
+	"CreatedBy": "SpaceGameDev, Coffee Cup Studios",
+	"CreatedByURL": "https://coffeecupstudios.org",
+	"DocsURL": "https://coffeecupstudios.org",
+	"MarketplaceURL": "https://ficsit.app/mod/CoffeeCupModpack",
+	"SupportURL": "https://discord.gg/coffeecupstudios",
+	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
@@ -21,27 +21,42 @@
 		{
 			"Name": "CoffeeCupAddons",
 			"Enabled": true,
-			"SemVersion": "^1.1.5"
+			"SemVersion": "1.1.7"
 		},
 		{
 			"Name": "CoffeeCupRaceEvent",
 			"Enabled": true,
-			"SemVersion": "^1.0.21"
+			"SemVersion": "1.0.24"
+		},
+				{
+			"Name": "RaceMenu",
+			"Enabled": true,
+			"SemVersion": "1.0.3"
+		},
+		{
+			"Name": "RaceTimer",
+			"Enabled": true,
+			"SemVersion": "2.6.2"
+		},
+		{
+			"Name": "NoCreatures",
+			"Enabled": true,
+			"SemVersion": "1.0.0"
+		},
+		{
+			"Name": "SloopedUpExplorer",
+			"Enabled": true,
+			"SemVersion": "1.2.4"
 		},
 		{
 			"Name": "ImprovedExplorerCameras",
 			"Enabled": true,
-			"SemVersion": "^1.5.3"
+			"SemVersion": "^1.5.5"
 		},
 		{
 			"Name": "LockerPresets",
 			"Enabled": true,
 			"SemVersion": "^1.2.0"
-		},
-		{
-			"Name": "NoCreatures",
-			"Enabled": true,
-			"SemVersion": "^1.0.0"
 		},
 		{
 			"Name": "NoDirtMask",
@@ -57,21 +72,6 @@
 			"Name": "NoSplash",
 			"Enabled": true,
 			"SemVersion": "^1.1.0"
-		},
-		{
-			"Name": "RaceMenu",
-			"Enabled": true,
-			"SemVersion": "^1.0.1"
-		},
-		{
-			"Name": "RaceTimer",
-			"Enabled": true,
-			"SemVersion": "^2.6.1"
-		},
-		{
-			"Name": "SloopedUpExplorer",
-			"Enabled": true,
-			"SemVersion": "^1.2.2"
 		},
 		{
 			"Name": "SML",
