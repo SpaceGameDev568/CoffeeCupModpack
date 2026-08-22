@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.2",
-	"SemVersion": "1.0.2",
+	"VersionName": "1.0.3",
+	"SemVersion": "1.0.3",
 	"GameVersion": ">=502094",
 	"FriendlyName": "Coffee Cup Modpack (CCM)",
 	"Description": "The modpack mod that requires all other mods needed by the event",
@@ -21,14 +21,14 @@
 		{
 			"Name": "CoffeeCupAddons",
 			"Enabled": true,
-			"SemVersion": "1.1.7"
+			"SemVersion": "1.1.10"
 		},
 		{
 			"Name": "CoffeeCupRaceEvent",
 			"Enabled": true,
-			"SemVersion": "1.0.24"
+			"SemVersion": "1.0.25"
 		},
-				{
+		{
 			"Name": "RaceMenu",
 			"Enabled": true,
 			"SemVersion": "1.0.3"
